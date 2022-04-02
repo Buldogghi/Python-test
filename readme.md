@@ -1,1 +1,1 @@
-Ciao sono Buldogghi, uno scratcher italiano
+Questo è un test di python
